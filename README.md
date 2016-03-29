@@ -5,3 +5,6 @@
  
  I refer to follow to make this project,using it's source code to change.
 ref: http://gonehybrid.com/how-to-group-items-in-ionics-collection-repeat/
+
+
+bug video:  https://forum.ionicframework.com/t/collection-repeat-splash-screen-bug-help-me/47704
